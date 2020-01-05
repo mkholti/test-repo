@@ -18,7 +18,7 @@ class LDN(Conf):
 
         return int : 1 or 0
         """
-        pass
+        return 1
 
     def decoupe(self):
         """
@@ -26,4 +26,3 @@ class LDN(Conf):
         return (ville, pays, code postal)
         """
         return 1
-        
