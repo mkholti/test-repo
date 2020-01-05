@@ -25,4 +25,5 @@ class LDN(Conf):
         fontion de découpage de l'entité LDN
         return (ville, pays, code postal)
         """
-        pass
+        return 1
+        
