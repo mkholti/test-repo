@@ -18,7 +18,7 @@ class LDN(Conf):
 
         return int : 1 or 0
         """
-        return 1
+        return 0
 
     def decoupe(self):
         """
